@@ -5,6 +5,7 @@ The PDF Invoice Generator from Excel with Python is a versatile tool designed to
 
 ## Tools & Library Used
 ![Static Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## Preview
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/5b5c6d22-78ec-433e-aeeb-154dcc1ef3dd" />
